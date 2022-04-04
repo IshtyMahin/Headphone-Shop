@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "rating":"4",
+        "name": "Md shahidul Islam",
+        "description":"The materials isn't good. Sound quality good but if it slip from hand it will be gone "
+    },
+    {
+        "id": "2",
+        "rating":"4",
+        "name": "Md Mahin",
+        "description":" used this not more than 10 days, but I think IN SHA ALLAH I will face no problem with this product.If anyone want to buy any headphone under 550, I would recommend this."
+    },
+    {
+        "id": "3",
+        "rating":"4.5",
+        "name": "Md Emran Mhamod",
+        "description":"I really loved the headset, pure gamming headset which sound almost 7.1 surrounded without the driver of virtual surrounding. Its a BEAST in this budget range, also the online support of startech done such a good job with the order process."
+    },
+    {
+        "id": "4",
+        "rating":"5",
+        "name": "Munem Shariar",
+        "description":"Very good headset, lightweight, comfortable with leather and memory foam. Although plastic build and doesn't feel like a tank but the headset still feels premium. Mic is very good. It has 7.1 which is a plus point. Audio isn't the best in the world but with a bit of tuning it'll be good."
+    },
+    {
+        "id": "5",
+        "rating":"5",
+        "name": "Md Montasir chowdhury",
+        "description":"It is good .I am using it. It comforts my ear. "
+    },
+    {
+        "id": "6",
+        "rating":"4",
+        "name": "Ishtiaq udin",
+        "description":"Good mic quality, but I am a bit disappointed with the sound quality, could have been better, but hey it's still pretty good for it's price range. "
+    }
+
+
+   
+]

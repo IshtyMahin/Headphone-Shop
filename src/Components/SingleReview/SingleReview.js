@@ -7,7 +7,7 @@ const SingleReview = ({review}) => {
     return (
         <div className='single-review'>
             
-            <p>Rating: <span className='rating'>{rating} stars</span></p>
+            <p>Rating: <span className='rating'>{rating}</span></p>
             <p>Review: {description}</p>
             <p>By <span className='reviewer-name'>{name}</span></p>
         </div>

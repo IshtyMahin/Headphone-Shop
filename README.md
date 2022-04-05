@@ -1,3 +1,14 @@
+# Project name : Headphone Shop 
+# Live Site Link 
+  [https://ishtymahin-assignment-9.netlify.app/](https://ishtymahin-assignment-9.netlify.app/)
+
+# project work
+- React routes & route
+- custom hook
+- lineChart
+- barChart
+- Link 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

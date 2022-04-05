@@ -8,7 +8,7 @@ const HomeReview = () => {
     const [reviews] = useReviews();
     return (
         <div >
-            <h1>Review (3)</h1>
+            <h1>Customer Review (3)</h1>
              <div className='review-container'>
              {
                 reviews.slice(0,3).map(review => <SingleReview
